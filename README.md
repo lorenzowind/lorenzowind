@@ -1,6 +1,4 @@
-<img src="bg.png" alt="" style="border-radius: 0.375rem">
-
-<h1></h1>
+<h1><img src="bg.png" alt=""></h1>
 
 <p align="center">
 I'm a Computer technician and a Computer Science student at PUCRS, with 5 years of experience in financial, academic, and e-commerce systems, using technologies such as Delphi, .NET, React, and Node, as well as cloud services like AWS and Microsoft Azure. Currently, I work as a Software Developer at Nelogica, focusing on improvements and corrections in the platforms.
