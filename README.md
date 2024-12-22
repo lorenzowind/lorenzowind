@@ -1,7 +1,7 @@
 <h1><img src="bg.png" alt=""></h1>
 
 <p align="center">
-I'm a Computer technician and a Computer Science student at PUCRS, with 5 years of experience in financial, academic, and e-commerce systems, using technologies such as Delphi, .NET, React, and Node, as well as cloud services like AWS and Microsoft Azure. Currently, I work as a Software Developer at Nelogica, focusing on improvements and corrections in the platforms.
+I'm a Computer Technician and graduate in Computer Science, with six years of experience in financial, academic, and e-commerce systems. I have worked with technologies such as .NET, Delphi, React, Node.js, and cloud services like AWS and Microsoft Azure. Currently, I work as a Technical Lead at Nelogica, focusing on platform improvements and user experience.
 </p>
 
 <div align="center">
